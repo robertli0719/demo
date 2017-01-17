@@ -1,6 +1,6 @@
 a.txt start
 1
-2 111222333 fixed bug
+2
 3
 4
 5
