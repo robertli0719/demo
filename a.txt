@@ -7,4 +7,4 @@ a.txt start
 6
 7
 8
-9 add new line
+9 add new line2
