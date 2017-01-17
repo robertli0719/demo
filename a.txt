@@ -1,7 +1,7 @@
 a.txt start
 1
 2
-3
+3 hotfix
 4 newline
 5
 6
