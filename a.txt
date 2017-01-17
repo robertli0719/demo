@@ -1,7 +1,7 @@
 a.txt start
 1 try clone and make somechange...
 2 try make somt change 2.
-3
+3 try make some change 3.
 4
 5
 6
