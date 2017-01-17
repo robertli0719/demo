@@ -1,5 +1,9 @@
 b.txt start
+<<<<<<< HEAD
 1 bbb
+=======
+1 aaa
+>>>>>>> 93c90029b1aa07f1aeb01c59cce0efab749563bb
 2
 3
 4
