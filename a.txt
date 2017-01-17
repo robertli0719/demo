@@ -1,8 +1,8 @@
 a.txt start
 1 try clone and make somechange...
-2 try make somt change 2.
+2 try make some change 2.
 3 try make some change 3.
-4
+4 try make some change 4.
 5
 6
 7
