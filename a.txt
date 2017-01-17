@@ -6,5 +6,5 @@ a.txt start
 5 try make some change 5. (new clone)
 6 try make some change 6.
 7 try make some change but pull before push
-8
+8 p2 makes some change.
 9
